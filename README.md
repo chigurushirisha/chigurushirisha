@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I’m Shirisha Chiguru!
 
-<!--
-**chigurushirisha/chigurushirisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 **Student passionate about Data Science and Machine Learning**
+- 🐍 **Python & SQL enthusiast**
+- 🔬 **Projects:**
+  - **Diabetes Prediction:** Using machine learning to assist in early detection.
+  - **Predictive Farming:** Leveraging ML for smarter agricultural practices.
+- 🎬 **Hobbies:** Watching animations
+- 🌐 **Connect with me:**  
+  [LinkedIn](https://www.linkedin.com/in/chiguru-shirisha-3ab59622b/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m always eager to learn new technologies, collaborate on exciting projects, and connect with like-minded people!
+
+Feel free to reach out or check out my projects!
